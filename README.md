@@ -1,8 +1,10 @@
 This is my very first official homework
 
+Screenshot
+https://github.com/annisapf/Bootcamp-Homework-01/blob/master/Horiseon-Company.png
+
 
 Reference : 
-
 ARIA
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
 
