@@ -1,7 +1,7 @@
 This is my very first official homework
 
 Screenshot
-![Horiseon-Company](https://user-images.githubusercontent.com/7066137/90393672-91154400-e0d4-11ea-8adc-f604901bf307.png)
+![Screen Shot 2020-08-17 at 22 03 45](https://user-images.githubusercontent.com/7066137/90394223-9c1ca400-e0d5-11ea-9dc7-60a035226593.png)
 
 Reference : 
 ARIA
