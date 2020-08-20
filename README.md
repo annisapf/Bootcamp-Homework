@@ -2,8 +2,7 @@
 This is a *Code Refactor* made in HTML and CSS.
 
 ## Goal
-This particular module is to ensure people with special needs can have access with this website. This initial problem is that there were some inefficiency of the semantic tags.
-It would then make the machine harder to read and understand it. Therefore the website will not be fully optimized. That's why I have to communicate clearly and efficiently using these semantic HTML tags that I will need to divide the page content into its basic parts : header, nav, main, article, section, footer. The HTML5 tags can be used in the place of div tags to break the page content into identified parts, each of which fulfills a specific role since machines like Googlebot and Bingbot definitely love this.
+This particular module is to ensure people with special needs can have access with this website. This initial problem is that there were some inefficiency of the semantic tags and large image files. It would then make the machine harder to read and understand it. It would also take longer to load the page with big image files. In order to make the website to be fully optimized, I have to resize the image file and to communicate clearly and efficiently using these semantic HTML tags that I will need to divide the page content into its basic parts : header, nav, main, article, section, footer. The HTML5 tags can be used in the place of div tags to break the page content into identified parts, each of which fulfills a specific role since machines like Googlebot and Bingbot definitely love this.
 
 ## Contents
 <p>The app is basically composed of 2 pages : index.html and style.css. This also has some images in the img folder.</p> 
