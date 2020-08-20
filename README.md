@@ -11,6 +11,7 @@ It would then make the machine harder to read and understand it. Therefore the w
 ## Build With
 * [VScode] (http://code.visualstudio.com/) - The editor of choice
 * [Chrome DevTools] (https://developers.google.com/web/tools/chrome-devtools) - The editor pages on-the-fly and problem diagnostic 
+* [Adobe Photoshop] (https://www.adobe.com/au/products/photoshop.html?promoid=PC1PQQ5T&mv=other) - The image-editing software
 
 
 ## Screenshot
