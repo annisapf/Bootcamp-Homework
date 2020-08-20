@@ -9,7 +9,11 @@ This particular module is to ensure people with special needs can have access wi
 
 ## Build With
 * [VScode] (http://code.visualstudio.com/) - The editor of choice
+<<<<<<< HEAD
 * [Chrome DevTools] (https://developers.google.com/web/tools/chrome-devtools) - The editor pages on-the-fly and problem diagnostic
+=======
+* [Chrome DevTools] (https://developers.google.com/web/tools/chrome-devtools) - The editor pages on-the-fly and problem diagnostic 
+>>>>>>> 17e96cc1ecf0cfbe1120657f37cb8ce24f3596d2
 * [Adobe Photoshop] (https://www.adobe.com/au/products/photoshop.html?promoid=PC1PQQ5T&mv=other) - The image-editing software
 
 
@@ -21,7 +25,11 @@ This particular module is to ensure people with special needs can have access wi
 <a href="https://annisapf.github.io/Bootcamp-Homework-CodeRefactor/">This link to the App</a><hr>
 <hr>
 
+<<<<<<< HEAD
 ## Reference :
+=======
+## Reference : 
+>>>>>>> 17e96cc1ecf0cfbe1120657f37cb8ce24f3596d2
 WAI -ARIA Roles - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 
 Semantic Tag - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
